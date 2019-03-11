@@ -192,7 +192,6 @@ limitations under the License.
             android:background="@android:color/holo_red_light"
             android:paddingLeft="10dp"
             android:paddingRight="10dp"
-            android:onClick="finishMainActivity"
             android:text="Cancel"
             android:textStyle="bold"
             android:textSize="22dp"
